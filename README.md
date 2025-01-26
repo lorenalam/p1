@@ -8,8 +8,9 @@
 
 ![Imagen 1](images/Captura%20de%20pantalla%202025-01-26%20232039.png)
 
-**2. Prueba los siguientes comandos sobre el anterior repositorio:
-git clone**
+**2. Prueba los siguientes comandos sobre el anterior repositorio:**
+
+*git clone*
 ![Imagen 1](images/Captura%20de%20pantalla%202025-01-26%20232126.png)
 
  
