@@ -36,12 +36,11 @@ Subimos los commits al repositorio remoto
 Con este comando nos podemos mover entre ramas o con la variante -b nombrerama crear una nueva rama a la que movernos y empezar a trabajar. En este caso 1 creamos y nos movemos a la rama ‘nuevarama’ y luego volvemos a la rama original ‘main’
 
 **INSTALACIÓN ENTORNO DE DESARROLLO JAVA**
+
 Ya tenía instalada la versión 19.0.2 en mi ordenador.
  
-
 También tenía instalada la versión 2023 de IntelliJ
  
-
 Procedo a la instalación de Maven y VsCode.
 Prueba instalación VsCode
  
