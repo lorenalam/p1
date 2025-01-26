@@ -24,6 +24,7 @@ Sirve para clonar/copiar un repositorio existente en un nuevo directorio, en est
  
 Muestra el estado del directorio de trabajo, en este caso esta actualizado con el origin/main. También incluye lo que ha ocurrido con los comandos git commit y git add.
 Vemos como al crear un archivo nuevo llamado prueba al hacer git satus cambia
+
  ![Imagen 4](images/Captura%20de%20pantalla%202025-01-26%20232337.png)
 
 *git add*
