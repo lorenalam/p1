@@ -5,7 +5,7 @@
 **COMANDOS GIT**
 
 **1.Desde la cuenta de Github hacer un "fork" del repositorio:  https://github.com/gitt-3-pat/p1**
- 
+ ![Imagen 1](images/Captura de pantalla 2025-01-26 232039.png)
 
 **2. Prueba los siguientes comandos sobre el anterior repositorio:
 git clone**
