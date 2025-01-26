@@ -1,6 +1,7 @@
 # p1
 
 **PRÁCTICA 1 PAT**
+
 **COMANDOS GIT**
 
 **1.Desde la cuenta de Github hacer un "fork" del repositorio:  https://github.com/gitt-3-pat/p1**
