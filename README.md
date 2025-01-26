@@ -24,7 +24,7 @@ Sirve para clonar/copiar un repositorio existente en un nuevo directorio, en est
  
 Muestra el estado del directorio de trabajo, en este caso esta actualizado con el origin/main. También incluye lo que ha ocurrido con los comandos git commit y git add.
 Vemos como al crear un archivo nuevo llamado prueba al hacer git satus cambia
- 
+ ![Imagen 4](images/Captura%20de%20pantalla%202025-01-26%20232337.png)
 
 *git add*
 
@@ -33,25 +33,23 @@ El punto (.) indica que queremos incluir todos los archivos y cambios que se han
 
 *git commit*
 
-![Imagen 4](images/Captura%20de%20pantalla%202025-01-26%20232337.png)
+![Imagen 5](images/Captura%20de%20pantalla%202025-01-26%20232352.png)
  
 Con esto guardamos los cambios realizados en el repositorio mediante git add y con el -m damos una descripción del cambio. 
 
 *git push*
 
-![Imagen 5](images/Captura%20de%20pantalla%202025-01-26%20232352.png)
+ ![Imagen 6](images/Captura%20de%20pantalla%202025-01-26%20232411.png)
 
 Subimos los commits al repositorio remoto 
 
 *git checkout*
 
- ![Imagen 6](images/Captura%20de%20pantalla%202025-01-26%20232411.png)
- 
+![Imagen 7](images/Captura%20de%20pantalla%202025-01-26%20232443.png)
 
 Con este comando nos podemos mover entre ramas o con la variante -b nombrerama crear una nueva rama a la que movernos y empezar a trabajar. En este caso 1 creamos y nos movemos a la rama ‘nuevarama’ y luego volvemos a la rama original ‘main’
 
 **INSTALACIÓN ENTORNO DE DESARROLLO JAVA**
-![Imagen 7](images/Captura%20de%20pantalla%202025-01-26%20232443.png)
 
 Ya tenía instalada la versión 19.0.2 en mi ordenador.
 ![Imagen 8](images/Captura%20de%20pantalla%202025-01-26%20232544.png)
