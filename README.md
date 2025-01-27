@@ -67,5 +67,5 @@ Prueba instalación VsCode
 
 Prueba instalación Maven
 
-![Imagen 11](images/Captura%de%pantalla%2025-01-26%184442.png)
+![Imagen 11](images/Captura%20de%20pantalla%202025-01-26%20184442.png)
  
