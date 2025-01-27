@@ -63,6 +63,7 @@ También tenía instalada la versión 2023 de IntelliJ
 Procedo a la instalación de Maven y VsCode.
 
 Prueba instalación VsCode
+
 ![Imagen 10](images/Captura%20de%20pantalla%202025-01-26%20232627.png)
 
 Prueba instalación Maven
